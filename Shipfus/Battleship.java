@@ -1,4 +1,4 @@
-package Learn.AzurLane;
+package Learn.Shipfus;
 
 public class Battleship extends Ship{
     String type = "Battleship";
