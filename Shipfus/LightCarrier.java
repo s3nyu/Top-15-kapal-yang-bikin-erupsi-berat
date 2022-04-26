@@ -1,4 +1,4 @@
-package Learn.AzurLane;
+package Learn.Shipfus;
 
 public class LightCarrier extends Ship {
     String type = "Light Carrier";
