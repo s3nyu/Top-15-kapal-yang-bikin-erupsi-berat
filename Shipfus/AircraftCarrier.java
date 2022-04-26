@@ -1,4 +1,4 @@
-package Learn.AzurLane;
+package Learn.Shipfus;
 
 public class AircraftCarrier extends Ship{
     String type = "Aircraft Carrier";
