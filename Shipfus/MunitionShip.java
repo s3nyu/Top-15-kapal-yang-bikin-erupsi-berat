@@ -1,4 +1,4 @@
-package Shipfus;
+package Learn.Shipfus;
 
 public class MunitionShip extends Ship{
     String type = "Munition Ship";
